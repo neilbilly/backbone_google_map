@@ -39,3 +39,4 @@ gem 'jquery-rails'
 
 gem 'backbone-on-rails'
 gem 'geocoder'
+gem 'rails_12factor'
